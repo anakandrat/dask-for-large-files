@@ -2,7 +2,7 @@ bokeh==1.2.0
 Click==7.0
 cloudpickle==1.2.1
 dask==2.0.0
-distributed==2.0.1
+distributed==2021.10.0
 HeapDict==1.0.0
 Jinja2==2.10.1
 locket==0.2.0
